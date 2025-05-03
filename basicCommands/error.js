@@ -30,7 +30,7 @@ const errors = [
       })
       .setFooter({ text: '📌 𝙏𝙝𝙞𝙨 𝙂𝙪𝙞𝙙𝙚 𝙈𝙞𝙜𝙝𝙩 𝙍𝙚𝙨𝙤𝙡𝙫𝙚 𝙔𝙤𝙪𝙧 𝙋𝙧𝙤𝙗𝙡𝙚𝙢!', iconURL: FooterIcon })
       .setTimestamp()
-      .setDescription('🛠️ **To make a ticket,** go to <#1351587420562522184> and select your desired option.')
+      .setDescription('🛠️ **To make a ticket,** go to <#1368273942720282736> and select your desired option.')
       .setImage('https://i.ibb.co/LhZn3JGJ/Screenshot-2025-03-12-170516.png')
   },
   {
@@ -45,7 +45,7 @@ const errors = [
       })
       .setFooter({ text: '📌 𝙏𝙝𝙞𝙨 𝙂𝙪𝙞𝙙𝙚 𝙈𝙞𝙜𝙝𝙩 𝙍𝙚𝙨𝙤𝙡𝙫𝙚 𝙔𝙤𝙪𝙧 𝙋𝙧𝙤𝙗𝙡𝙚𝙢!', iconURL: FooterIcon })
       .setTimestamp()
-      .setDescription('▶️ **Follow these steps:**\n\n1️⃣ **Check** <#1351569104686940171>.\n2️⃣ **If you meet all the requirements,** create a ticket and we will reach out to you soon.')
+      .setDescription('▶️ **Follow these steps:**\n\n1️⃣ **Check** <#1351888783121055866>.\n2️⃣ **If you meet all the requirements,** create a ticket and we will reach out to you soon.')
   },
   {
     keywords: ['help'],
@@ -77,7 +77,7 @@ const errors = [
   }
 ];
 
-const allowedChannels = ['1351575349372129340', '1351562240599523358'];
+const allowedChannels = ['1368273810436133056', '1351562240599523358'];
 
 module.exports = {
   name: 'error',
